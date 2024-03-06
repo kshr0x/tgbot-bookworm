@@ -1,1 +1,1 @@
-TG_TOKEN = "Enter your token here"
+TG_TOKEN = "6739402561:AAHa0_BZ9xzSC26HurrBleAYX6GiJN3W9eE"
