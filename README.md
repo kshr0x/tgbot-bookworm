@@ -1,1 +1,1 @@
-Bot for searching and downloading books using Flibusta API
+Bot for searching and downloading books using Flibusta API v1.0
